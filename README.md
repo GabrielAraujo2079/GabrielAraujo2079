@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPWFlZWNjYzExa3o3eG0xMjRnZ2kwbTlnZzA3aDJ5YTRnODd4aXE1bHNzZnZ1Zjd0NSZlcD12MV9naWZzX2dpZklkJmN0PWc/6hKL8BI8rRNrMRFtAx/200.gif" width="120" style="float:right; margin-left:15px;" />
 
 - 🔭 Trabalho com suporte técnico  
-- 🌱 Estudando C  
+- 🌱 Estudando C && e Windows Server 👍 
 - 📫 Contato: gabrielaraujo20079@gmail.com
 </p>
 
